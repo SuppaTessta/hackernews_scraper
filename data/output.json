@@ -1,0 +1,722 @@
+[
+    {
+        "Title":"Wikimedia Foundation Challenges UK Online Safety Act Regulations",
+        "Link":"https:\/\/wikimediafoundation.org\/news\/2025\/08\/11\/wikimedia-foundation-challenges-uk-online-safety-act-regulations\/",
+        "Score":"140 points",
+        "Author":"danso",
+        "Age":"1 hour ago",
+        "Comments":"47\u00a0comments"
+    },
+    {
+        "Title":"OpenSSH Post-Quantum Cryptography",
+        "Link":"https:\/\/www.openssh.com\/pq.html",
+        "Score":"144 points",
+        "Author":"throw0101d",
+        "Age":"2 hours ago",
+        "Comments":"39\u00a0comments"
+    },
+    {
+        "Title":"I tried every todo app and ended up with a .txt file",
+        "Link":"https:\/\/www.al3rez.com\/todo-txt-journey",
+        "Score":"17 points",
+        "Author":"al3rez",
+        "Age":"23 minutes ago",
+        "Comments":"4\u00a0comments"
+    },
+    {
+        "Title":"AOL to discontinue dial-up internet",
+        "Link":"https:\/\/www.nytimes.com\/2025\/08\/11\/business\/aol-dial-up-internet.html",
+        "Score":"15 points",
+        "Author":"situationista",
+        "Age":"1 hour ago",
+        "Comments":"7\u00a0comments"
+    },
+    {
+        "Title":"Faster substring search with SIMD in Zig",
+        "Link":"https:\/\/aarol.dev\/posts\/zig-simd-substr\/",
+        "Score":"109 points",
+        "Author":"todsacerdoti",
+        "Age":"4 hours ago",
+        "Comments":"30\u00a0comments"
+    },
+    {
+        "Title":"The Chrome VRP Panel has decided to award $250k for this report",
+        "Link":"https:\/\/issues.chromium.org\/issues\/412578726",
+        "Score":"353 points",
+        "Author":"alexcos",
+        "Age":"8 hours ago",
+        "Comments":"189\u00a0comments"
+    },
+    {
+        "Title":"Pricing Pages \u2013 A Curated Gallery of Pricing Page Designs",
+        "Link":"https:\/\/pricingpages.design\/",
+        "Score":"41 points",
+        "Author":"finniansturdy",
+        "Age":"1 hour ago",
+        "Comments":"14\u00a0comments"
+    },
+    {
+        "Title":"Claude Code is all you need",
+        "Link":"https:\/\/dwyer.co.za\/static\/claude-code-is-all-you-need.html",
+        "Score":"4 points",
+        "Author":"sixhobbits",
+        "Age":"18 minutes ago",
+        "Comments":"2\u00a0comments"
+    },
+    {
+        "Title":"Vanishing from Hyundai\u2019s data network",
+        "Link":"http:\/\/techno-fandom.org\/~hobbit\/cars\/ev\/offnet.html",
+        "Score":"348 points",
+        "Author":"pilingual",
+        "Age":"12 hours ago",
+        "Comments":"162\u00a0comments"
+    },
+    {
+        "Title":"Operation Costs in CPU Clock Cycles (2016)",
+        "Link":"http:\/\/ithare.com\/infographics-operation-costs-in-cpu-clock-cycles\/",
+        "Score":"12 points",
+        "Author":"limoce",
+        "Age":"1 hour ago",
+        "Comments":"2\u00a0comments"
+    },
+    {
+        "Title":"A Global Look at Teletext",
+        "Link":"https:\/\/text-mode.org\/?p=23643",
+        "Score":"16 points",
+        "Author":"aqua_worm_hole",
+        "Age":"3 hours ago",
+        "Comments":"2\u00a0comments"
+    },
+    {
+        "Title":"Hand-picked selection of articles on AI fundamentals\/concepts",
+        "Link":"https:\/\/aman.ai\/primers\/ai\/",
+        "Score":"141 points",
+        "Author":"vinhnx",
+        "Age":"5 hours ago",
+        "Comments":"6\u00a0comments"
+    },
+    {
+        "Title":"Millau Viaduct",
+        "Link":"https:\/\/www.fosterandpartners.com\/projects\/millau-viaduct",
+        "Score":"99 points",
+        "Author":"oliverulerich",
+        "Age":"7 hours ago",
+        "Comments":"35\u00a0comments"
+    },
+    {
+        "Title":"GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM",
+        "Link":"https:\/\/old.reddit.com\/r\/LocalLLaMA\/comments\/1mke7ef\/120b_runs_awesome_on_just_8gb_vram\/",
+        "Score":"124 points",
+        "Author":"zigzag312",
+        "Age":"4 hours ago",
+        "Comments":"34\u00a0comments"
+    },
+    {
+        "Title":"A simple pixel physics simulator in Rust using Macroquad",
+        "Link":"https:\/\/github.com\/gale93\/sbixel",
+        "Score":"5 points",
+        "Author":"sbirulo",
+        "Age":"2 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"Going faster than memcpy",
+        "Link":"https:\/\/squadrick.dev\/journal\/going-faster-than-memcpy",
+        "Score":"104 points",
+        "Author":"snihalani",
+        "Age":"9 hours ago",
+        "Comments":"55\u00a0comments"
+    },
+    {
+        "Title":"Try and",
+        "Link":"https:\/\/ygdp.yale.edu\/phenomena\/try-and",
+        "Score":"598 points",
+        "Author":"treetalker",
+        "Age":"1 day ago",
+        "Comments":"301\u00a0comments"
+    },
+    {
+        "Title":"Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing",
+        "Link":"https:\/\/www.justice.gov\/opa\/pr\/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its",
+        "Score":"27 points",
+        "Author":"impish9208",
+        "Age":"1 hour ago",
+        "Comments":"34\u00a0comments"
+    },
+    {
+        "Title":"TeaOnHer, a rival Tea app for men, is leaking users' personal data",
+        "Link":"https:\/\/techcrunch.com\/2025\/08\/06\/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses\/",
+        "Score":"24 points",
+        "Author":"pavel_lishin",
+        "Age":"1 hour ago",
+        "Comments":"12\u00a0comments"
+    },
+    {
+        "Title":"GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
+        "Link":"https:\/\/magazine.sebastianraschka.com\/p\/from-gpt-2-to-gpt-oss-analyzing-the",
+        "Score":"443 points",
+        "Author":"ModelForge",
+        "Age":"23 hours ago",
+        "Comments":"95\u00a0comments"
+    },
+    {
+        "Title":"Generic Containers in C: Safe Division Using Maybe",
+        "Link":"https:\/\/uecker.codeberg.page\/2025-08-10.html",
+        "Score":"75 points",
+        "Author":"uecker",
+        "Age":"9 hours ago",
+        "Comments":"39\u00a0comments"
+    },
+    {
+        "Title":"Compiling a Lisp: Lambda lifting",
+        "Link":"https:\/\/bernsteinbear.com\/blog\/compiling-a-lisp-12\/",
+        "Score":"138 points",
+        "Author":"azhenley",
+        "Age":"15 hours ago",
+        "Comments":"11\u00a0comments"
+    },
+    {
+        "Title":"Self-Guaranteeing Promises",
+        "Link":"https:\/\/stephango.com\/self-guarantee",
+        "Score":"50 points",
+        "Author":"tie-in",
+        "Age":"6 hours ago",
+        "Comments":"29\u00a0comments"
+    },
+    {
+        "Title":"Mistral Integration Improved in Llama.cpp",
+        "Link":"https:\/\/github.com\/ggml-org\/llama.cpp\/pull\/14737",
+        "Score":"11 points",
+        "Author":"decide1000",
+        "Age":"4 hours ago",
+        "Comments":"1\u00a0comment"
+    },
+    {
+        "Title":"Show HN: Bolt \u2013 A super-fast, statically-typed scripting language written in C",
+        "Link":"https:\/\/github.com\/Beariish\/bolt",
+        "Score":"239 points",
+        "Author":"beariish",
+        "Age":"20 hours ago",
+        "Comments":"80\u00a0comments"
+    },
+    {
+        "Title":"Creating the Longest Possible Ski Jump in \u201cThe Games: Winter Challenge\u201d",
+        "Link":"https:\/\/mrwint.github.io\/winter\/writeup\/writeup2.html",
+        "Score":"221 points",
+        "Author":"alberto-m",
+        "Age":"20 hours ago",
+        "Comments":"17\u00a0comments"
+    },
+    {
+        "Title":"Fight Chat Control",
+        "Link":"https:\/\/fightchatcontrol.eu\/",
+        "Score":"1278 points",
+        "Author":"tokai",
+        "Age":"21 hours ago",
+        "Comments":"416\u00a0comments"
+    },
+    {
+        "Title":"Lists and Lists: Basics of Lisp through interactive fiction (1996)",
+        "Link":"https:\/\/eblong.com\/zarf\/zweb\/lists\/",
+        "Score":"60 points",
+        "Author":"prathyvsh",
+        "Age":"13 hours ago",
+        "Comments":"11\u00a0comments"
+    },
+    {
+        "Title":"Show HN: Engineering.fyi \u2013 Search across tech engineering blogs in one place",
+        "Link":"https:\/\/engineering.fyi\/",
+        "Score":"416 points",
+        "Author":"indiehackerman",
+        "Age":"1 day ago",
+        "Comments":"107\u00a0comments"
+    },
+    {
+        "Title":"Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
+        "Link":"https:\/\/www.usenix.org\/system\/files\/nsdi22-paper-najafi_1.pdf",
+        "Score":"46 points",
+        "Author":"mlerner",
+        "Age":"9 hours ago",
+        "Comments":"10\u00a0comments"
+    },
+    {
+        "Title":"One Million Screenshots",
+        "Link":"https:\/\/onemillionscreenshots.com\/?q=random",
+        "Score":"247 points",
+        "Author":"gaws",
+        "Age":"17 hours ago",
+        "Comments":"84\u00a0comments"
+    },
+    {
+        "Title":"The enduring puzzle of static electricity",
+        "Link":"https:\/\/pubs.aip.org\/physicstoday\/article\/78\/8\/54\/3355922\/The-enduring-puzzle-of-static-electricityEven",
+        "Score":"95 points",
+        "Author":"EvgeniyZh",
+        "Age":"11 hours ago",
+        "Comments":"10\u00a0comments"
+    },
+    {
+        "Title":"The U.S. military prepares to deploy National Guard troops in Washington, D.C",
+        "Link":"https:\/\/www.nytimes.com\/live\/2025\/08\/11\/us\/trump-news",
+        "Score":"35 points",
+        "Author":"Tadpole9181",
+        "Age":"18 minutes ago",
+        "Comments":"22\u00a0comments"
+    },
+    {
+        "Title":"Diffusion language models are super data learners",
+        "Link":"https:\/\/jinjieni.notion.site\/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
+        "Score":"205 points",
+        "Author":"babelfish",
+        "Age":"22 hours ago",
+        "Comments":"14\u00a0comments"
+    },
+    {
+        "Title":"Fitzgerald's Follies",
+        "Link":"https:\/\/libertiesjournal.com\/articles\/fitzgeralds-follies\/",
+        "Score":"4 points",
+        "Author":"samclemens",
+        "Age":"4 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"Show HN: A Sinclair ZX81 retro web assembler+simulator",
+        "Link":"item?id=44859761",
+        "Score":"64 points",
+        "Author":"andromaton",
+        "Age":"13 hours ago",
+        "Comments":"11\u00a0comments"
+    },
+    {
+        "Title":"Type (YC W23) is hiring a founding engineer to build an AI-native doc editor",
+        "Link":"https:\/\/www.ycombinator.com\/companies\/type\/jobs\/1idOunL-founding-product-engineer",
+        "Score":"0 points",
+        "Author":"N\/A",
+        "Age":"21 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"Ex-Google Exec Says \"The Idea That AI Will Create New Jobs Is 100% Crap\"",
+        "Link":"https:\/\/www.windowscentral.com\/artificial-intelligence\/former-google-exec-even-ceo-on-tech-chopping-block",
+        "Score":"10 points",
+        "Author":"pjmlp",
+        "Age":"1 hour ago",
+        "Comments":"8\u00a0comments"
+    },
+    {
+        "Title":"Nukes, Nubs And Coners: The Social Hierarchy Aboard A Nuclear Submarine (2020)",
+        "Link":"https:\/\/www.twz.com\/34104\/nukes-nubs-and-coners-the-unique-social-hierarchy-aboard-a-nuclear-submarine",
+        "Score":"18 points",
+        "Author":"xrayarx",
+        "Age":"2 hours ago",
+        "Comments":"11\u00a0comments"
+    },
+    {
+        "Title":"1910: The year the modern world lost its mind",
+        "Link":"https:\/\/www.derekthompson.org\/p\/1910-the-year-the-modern-world-lost",
+        "Score":"322 points",
+        "Author":"purgator",
+        "Age":"17 hours ago",
+        "Comments":"279\u00a0comments"
+    },
+    {
+        "Title":"Booting 5000 Erlangs on Ampere One 192-core",
+        "Link":"https:\/\/underjord.io\/booting-5000-erlangs-on-ampere-one.html",
+        "Score":"210 points",
+        "Author":"ingve",
+        "Age":"1 day ago",
+        "Comments":"40\u00a0comments"
+    },
+    {
+        "Title":"When Mark Zuckerberg Moved Next Door",
+        "Link":"https:\/\/www.seattletimes.com\/nation-world\/what-happened-when-mark-zuckerberg-moved-in-next-door\/",
+        "Score":"4 points",
+        "Author":"EL_Loco",
+        "Age":"37 minutes ago",
+        "Comments":"1\u00a0comment"
+    },
+    {
+        "Title":"Writing simple tab-completions for Bash and Zsh",
+        "Link":"https:\/\/mill-build.org\/blog\/14-bash-zsh-completion.html",
+        "Score":"255 points",
+        "Author":"lihaoyi",
+        "Age":"1 day ago",
+        "Comments":"83\u00a0comments"
+    },
+    {
+        "Title":"Abogen \u2013 Generate audiobooks from EPUBs, PDFs and text",
+        "Link":"https:\/\/github.com\/denizsafak\/abogen",
+        "Score":"325 points",
+        "Author":"mzehrer",
+        "Age":"1 day ago",
+        "Comments":"78\u00a0comments"
+    },
+    {
+        "Title":"How to Lie with Statistics",
+        "Link":"https:\/\/en.wikipedia.org\/wiki\/How_to_Lie_with_Statistics",
+        "Score":"3 points",
+        "Author":"elashri",
+        "Age":"52 minutes ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"PHP compile time generics: yay or nay?",
+        "Link":"https:\/\/thephp.foundation\/blog\/2025\/08\/05\/compile-generics\/",
+        "Score":"86 points",
+        "Author":"moebrowne",
+        "Age":"18 hours ago",
+        "Comments":"51\u00a0comments"
+    },
+    {
+        "Title":"TCP Client Self-Connect (2013)",
+        "Link":"http:\/\/sgros.blogspot.com\/2013\/08\/tcp-client-self-connect.html",
+        "Score":"50 points",
+        "Author":"Bogdanp",
+        "Age":"13 hours ago",
+        "Comments":"7\u00a0comments"
+    },
+    {
+        "Title":"How Does a Blind Model See the Earth?",
+        "Link":"https:\/\/outsidetext.substack.com\/p\/how-does-a-blind-model-see-the-earth",
+        "Score":"28 points",
+        "Author":"recursiveforte",
+        "Age":"10 hours ago",
+        "Comments":"4\u00a0comments"
+    },
+    {
+        "Title":"Dear String-to-Integer Parsers",
+        "Link":"https:\/\/owl.billpg.com\/dear-string-to-integer-parsers\/",
+        "Score":"7 points",
+        "Author":"billpg",
+        "Age":"4 hours ago",
+        "Comments":"8\u00a0comments"
+    },
+    {
+        "Title":"Reflections on Soviet Amateur Photography",
+        "Link":"https:\/\/www.publicbooks.org\/strangers-in-the-family-album-reflections-on-soviet-amateur-photography\/",
+        "Score":"39 points",
+        "Author":"prismatic",
+        "Age":"17 hours ago",
+        "Comments":"8\u00a0comments"
+    },
+    {
+        "Title":"The Framework Desktop is a beast",
+        "Link":"https:\/\/world.hey.com\/dhh\/the-framework-desktop-is-a-beast-636fb4ff",
+        "Score":"462 points",
+        "Author":"lemonberry",
+        "Age":"1 day ago",
+        "Comments":"422\u00a0comments"
+    },
+    {
+        "Title":"Abusing Entra OAuth for fun and access to internal Microsoft applications",
+        "Link":"https:\/\/research.eye.security\/consent-and-compromise\/",
+        "Score":"343 points",
+        "Author":"the1bernard",
+        "Age":"1 day ago",
+        "Comments":"112\u00a0comments"
+    },
+    {
+        "Title":"Anti-competitive practices masquerading as security is a dangerous pattern",
+        "Link":"https:\/\/blog.alinelerner.com\/i-posted-some-interview-prep-materials-on-linkedin-then-they-deleted-me\/",
+        "Score":"51 points",
+        "Author":"cnst",
+        "Age":"17 hours ago",
+        "Comments":"6\u00a0comments"
+    },
+    {
+        "Title":"Digital Foundry leaves IGN, now independent [video]",
+        "Link":"https:\/\/www.youtube.com\/watch?v=tl7bIJ2yu4I",
+        "Score":"83 points",
+        "Author":"zdw",
+        "Age":"14 hours ago",
+        "Comments":"38\u00a0comments"
+    },
+    {
+        "Title":"Bouncing on trampolines to run eBPF programs",
+        "Link":"https:\/\/bootlin.com\/blog\/bouncing-on-trampolines-to-run-ebpf-programs\/",
+        "Score":"29 points",
+        "Author":"tanelpoder",
+        "Age":"9 hours ago",
+        "Comments":"2\u00a0comments"
+    },
+    {
+        "Title":"Israel's Leviathan signs $35B natural gas supply deal with Egypt",
+        "Link":"https:\/\/www.reuters.com\/business\/energy\/israels-leviathan-signs-35-billion-natural-gas-supply-deal-with-egypt-2025-08-07\/",
+        "Score":"6 points",
+        "Author":"vinnyglennon",
+        "Age":"2 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"Open Lovable",
+        "Link":"https:\/\/github.com\/mendableai\/open-lovable",
+        "Score":"169 points",
+        "Author":"iamflimflam1",
+        "Age":"1 day ago",
+        "Comments":"48\u00a0comments"
+    },
+    {
+        "Title":"Events",
+        "Link":"https:\/\/developer.mozilla.org\/en-US\/docs\/Learn_web_development\/Core\/Scripting\/Events",
+        "Score":"56 points",
+        "Author":"aanthonymax",
+        "Age":"18 hours ago",
+        "Comments":"19\u00a0comments"
+    },
+    {
+        "Title":"Amazon Drone Beehive Concept (2019)",
+        "Link":"https:\/\/etrr.springeropen.com\/articles\/10.1186\/s12544-019-0368-2",
+        "Score":"6 points",
+        "Author":"austinallegro",
+        "Age":"1 hour ago",
+        "Comments":"2\u00a0comments"
+    },
+    {
+        "Title":"AI: Great Expectations",
+        "Link":"https:\/\/rodneybrooks.com\/ai-great-expectations\/",
+        "Score":"12 points",
+        "Author":"chmaynard",
+        "Age":"9 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"The current state of LLM-driven development",
+        "Link":"http:\/\/blog.tolki.dev\/posts\/2025\/08-07-llms\/",
+        "Score":"214 points",
+        "Author":"Signez",
+        "Age":"1 day ago",
+        "Comments":"219\u00a0comments"
+    },
+    {
+        "Title":"Curious about the training data of OpenAI's new GPT-OSS models? I was too",
+        "Link":"https:\/\/twitter.com\/jxmnop\/status\/1953899426075816164",
+        "Score":"230 points",
+        "Author":"flabber",
+        "Age":"1 day ago",
+        "Comments":"57\u00a0comments"
+    },
+    {
+        "Title":"Easily run Windows software on Linux with Bottles",
+        "Link":"https:\/\/usebottles.com\/",
+        "Score":"69 points",
+        "Author":"doener",
+        "Age":"11 hours ago",
+        "Comments":"49\u00a0comments"
+    },
+    {
+        "Title":"A ChatGPT Pro subscription costs 38.6 months of income in low-income countries",
+        "Link":"https:\/\/policykahani.substack.com\/p\/a-chatgpt-pro-subscription-costs",
+        "Score":"49 points",
+        "Author":"WasimBhai",
+        "Age":"8 hours ago",
+        "Comments":"77\u00a0comments"
+    },
+    {
+        "Title":"Squashing my dumb bugs and why I log build IDs",
+        "Link":"https:\/\/rachelbythebay.com\/w\/2025\/08\/03\/scope\/",
+        "Score":"31 points",
+        "Author":"wglb",
+        "Age":"15 hours ago",
+        "Comments":"12\u00a0comments"
+    },
+    {
+        "Title":"I Made a Floppy Disk from Scratch [video]",
+        "Link":"https:\/\/www.youtube.com\/watch?v=TBiFGhnXsh8",
+        "Score":"6 points",
+        "Author":"skibz",
+        "Age":"2 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"A CT scanner reveals surprises inside the 386 processor's ceramic package",
+        "Link":"https:\/\/www.righto.com\/2025\/08\/intel-386-package-ct-scan.html",
+        "Score":"302 points",
+        "Author":"robin_reala",
+        "Age":"1 day ago",
+        "Comments":"105\u00a0comments"
+    },
+    {
+        "Title":"Cybertruck deactivated on road after a cease and desist for using it in a song",
+        "Link":"https:\/\/old.reddit.com\/r\/CyberStuck\/comments\/1mmbq9w\/lets_go_ahead_and_deactivate_here_looks_like_a\/",
+        "Score":"7 points",
+        "Author":"amarcheschi",
+        "Age":"1 hour ago",
+        "Comments":"5\u00a0comments"
+    },
+    {
+        "Title":"Flintlock \u2013 Create and manage the lifecycle of MicroVMs, backed by containerd",
+        "Link":"https:\/\/github.com\/liquidmetal-dev\/flintlock",
+        "Score":"82 points",
+        "Author":"Palmik",
+        "Age":"22 hours ago",
+        "Comments":"5\u00a0comments"
+    },
+    {
+        "Title":"I want everything local \u2013 Building my offline AI workspace",
+        "Link":"https:\/\/instavm.io\/blog\/building-my-offline-ai-workspace",
+        "Score":"1069 points",
+        "Author":"mkagenius",
+        "Age":"2 days ago",
+        "Comments":"277\u00a0comments"
+    },
+    {
+        "Title":"ECScape: Understanding IAM Privilege Boundaries in Amazon ECS",
+        "Link":"https:\/\/www.sweet.security\/blog\/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs",
+        "Score":"22 points",
+        "Author":"eyberg",
+        "Age":"17 hours ago",
+        "Comments":"8\u00a0comments"
+    },
+    {
+        "Title":"How Potatoes Evolved",
+        "Link":"https:\/\/www.nhm.ac.uk\/discover\/news\/2025\/july\/we-finally-solved-the-mystery-of-how-potatoes-evolved.html",
+        "Score":"112 points",
+        "Author":"gmays",
+        "Age":"1 day ago",
+        "Comments":"49\u00a0comments"
+    },
+    {
+        "Title":"How I code with AI on a budget\/free",
+        "Link":"https:\/\/wuu73.org\/blog\/aiguide1.html",
+        "Score":"649 points",
+        "Author":"indigodaddy",
+        "Age":"1 day ago",
+        "Comments":"221\u00a0comments"
+    },
+    {
+        "Title":"Flock Now Using AI to Report to Police If Our Movement Patterns Are \"Suspicious\"",
+        "Link":"https:\/\/www.aclu.org\/news\/national-security\/surveillance-company-flock-now-using-ai-to-report-us-to-police-if-it-thinks-our-movement-patterns-are-suspicious",
+        "Score":"84 points",
+        "Author":"cyberphobe",
+        "Age":"12 hours ago",
+        "Comments":"33\u00a0comments"
+    },
+    {
+        "Title":"GPS Jamming Extends to Low-Earth Orbit",
+        "Link":"https:\/\/www.airandspaceforces.com\/gps-jamming-extends-to-leo\/",
+        "Score":"4 points",
+        "Author":"throw0101c",
+        "Age":"2 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"Melonking Website",
+        "Link":"https:\/\/melonking.net\/",
+        "Score":"138 points",
+        "Author":"thecsw",
+        "Age":"1 day ago",
+        "Comments":"30\u00a0comments"
+    },
+    {
+        "Title":"Ch.at \u2013 A lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
+        "Link":"https:\/\/ch.at\/",
+        "Score":"249 points",
+        "Author":"ownlife",
+        "Age":"1 day ago",
+        "Comments":"68\u00a0comments"
+    },
+    {
+        "Title":"Conversations remotely detected from cell phone vibrations, researchers report",
+        "Link":"https:\/\/www.psu.edu\/news\/engineering\/story\/conversations-remotely-detected-cell-phone-vibrations-researchers-report",
+        "Score":"42 points",
+        "Author":"giuliomagnifico",
+        "Age":"20 hours ago",
+        "Comments":"8\u00a0comments"
+    },
+    {
+        "Title":"Basic Social Skills Guide",
+        "Link":"https:\/\/www.improveyoursocialskills.com\/basic-social-skills-guide",
+        "Score":"189 points",
+        "Author":"sogen",
+        "Age":"9 hours ago",
+        "Comments":"177\u00a0comments"
+    },
+    {
+        "Title":"Don't \u201clet it crash\u201d, let it heal",
+        "Link":"https:\/\/www.zachdaniel.dev\/p\/elixir-misconceptions-1",
+        "Score":"162 points",
+        "Author":"ahamez",
+        "Age":"1 day ago",
+        "Comments":"88\u00a0comments"
+    },
+    {
+        "Title":"An engineer's perspective on hiring",
+        "Link":"https:\/\/jyn.dev\/an-engineers-perspective-on-hiring",
+        "Score":"176 points",
+        "Author":"pabs3",
+        "Age":"1 day ago",
+        "Comments":"227\u00a0comments"
+    },
+    {
+        "Title":"Debian 13 \u201cTrixie\u201d",
+        "Link":"https:\/\/www.debian.org\/News\/2025\/20250809",
+        "Score":"913 points",
+        "Author":"ducktective",
+        "Age":"1 day ago",
+        "Comments":"380\u00a0comments"
+    },
+    {
+        "Title":"Show HN: The current sky at your approximate location, as a CSS gradient",
+        "Link":"https:\/\/sky.dlazaro.ca",
+        "Score":"748 points",
+        "Author":"dlazaro",
+        "Age":"2 days ago",
+        "Comments":"156\u00a0comments"
+    },
+    {
+        "Title":"How I use Tailscale",
+        "Link":"https:\/\/chameth.com\/how-i-use-tailscale\/",
+        "Score":"367 points",
+        "Author":"aquariusDue",
+        "Age":"2 days ago",
+        "Comments":"92\u00a0comments"
+    },
+    {
+        "Title":"POML: Prompt Orchestration Markup Language",
+        "Link":"https:\/\/github.com\/microsoft\/poml",
+        "Score":"99 points",
+        "Author":"avestura",
+        "Age":"1 day ago",
+        "Comments":"42\u00a0comments"
+    },
+    {
+        "Title":"Show HN: QuickShelf \u2013 Stop opening Finder just to drag files",
+        "Link":"https:\/\/quickshelf-app.slowlab.dev",
+        "Score":"9 points",
+        "Author":"slowlab",
+        "Age":"8 hours ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"ESP32 Bus Pirate 0.5 \u2013 A hardware hacking tool that speaks every protocol",
+        "Link":"https:\/\/github.com\/geo-tp\/ESP32-Bus-Pirate",
+        "Score":"155 points",
+        "Author":"geo-tp",
+        "Age":"1 day ago",
+        "Comments":"31\u00a0comments"
+    },
+    {
+        "Title":"Claude Code IDE integration for Emacs",
+        "Link":"https:\/\/github.com\/manzaltu\/claude-code-ide.el",
+        "Score":"777 points",
+        "Author":"kgwgk",
+        "Age":"5 days ago",
+        "Comments":"265\u00a0comments"
+    },
+    {
+        "Title":"Cat soap operas and babies trapped in space: the 'AI slop' taking over YouTube",
+        "Link":"https:\/\/www.theguardian.com\/technology\/2025\/aug\/11\/cat-soap-operas-and-babies-trapped-in-space-the-ai-slop-taking-over-youtube",
+        "Score":"4 points",
+        "Author":"ZiiS",
+        "Age":"36 minutes ago",
+        "Comments":"0 comments"
+    },
+    {
+        "Title":"People returned to live in Pompeii's ruins, archaeologists say",
+        "Link":"https:\/\/www.bbc.com\/news\/articles\/c62wx23y2v1o",
+        "Score":"93 points",
+        "Author":"bookofjoe",
+        "Age":"1 day ago",
+        "Comments":"13\u00a0comments"
+    }
+]
